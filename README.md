@@ -47,3 +47,5 @@ Processing: The Flask server sanitizes the input, URL-encodes the text, and rout
 Response: The backend catches the API's JSON response, handles any potential errors (like timeouts or empty payloads), and passes the clean, translated text back to the client.
 
 Display: The UI elegantly animates the appearance of the new text, temporarily disables the loading state, and surfaces the "Copy" and "Speak" action buttons for the user to interact with.
+
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/f161e5e6-463d-43e4-9f05-222114ec62e1" />
